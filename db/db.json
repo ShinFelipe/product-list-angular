@@ -1,0 +1,124 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Logitech G502 LIGHTSPEED",
+      "preco": 499.90,
+      "imagem": "https://images7.kabum.com.br/produtos/fotos/388057/mouse-gamer-sem-fio-logitech-g502-x-lightspeed-25600-dpi-13-botoes-switch-branco-910-006188_1665069025_gg.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Headset Redragon Paris RGB 7.1",
+      "preco": 499.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/509602/medium/Headset-Gamer-Redragon-Paris-RGB-7-1-Driver-50mm-Preto-H390-rgb_1739905834.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "Mouse Machenike M7 Pro RGB Wireless",
+      "preco": 237.49,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/107333/mouse-gamer-sem-fio-logitech-g-pro-wireless-lightspeed-rgb-lightsync-ambidestro-6-botoes-programaveis-hero-25k-910-005271_1644501564_m.jpg"
+    },
+    {
+      "id": 18,
+      "nome": "Logitech G PRO Wireless LIGHTSPEED",
+      "preco": 599.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/107333/mouse-gamer-sem-fio-logitech-g-pro-wireless-lightspeed-rgb-lightsync-ambidestro-6-botoes-programaveis-hero-25k-910-005271_1644501564_m.jpg"
+    },
+    {
+      "id": 20,
+      "nome": "SSD Kingston A400 480GB SATA",
+      "preco": 169.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_m.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Headset Gamer Dex DF-81 LED Azul USB/P2",
+      "preco": 77.04,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/457523/Headset-Gamer-Dex-Df-81-LED-Azul-USB-P2-Preto-Adaptador-Y-P3-Ps4-Pc_1715712109_m.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Teclado Machenike K500-B61 RGB Switch Blue 60%",
+      "preco": 159.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/621205/teclado-mecanico-gamer-machenike-cinza-k500-b61-switch-blue-61-teclas-60-compacto-abnt2-hotswap-rgb-driver-wired-usb-c-gray_1746554985_m.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Headset Havit H2002D 53mm P2/PS4/PC",
+      "preco": 158.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/631009/headset-fortrek-fk-761a-bluetooth-preto-81482_1726832309_m.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "Headset X-zone 7.1 RGB 50mm",
+      "preco": 107.91,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/478126/medium/Headset-Com-Fio-Gamer-X-zone-7-1-RGB-50mm-Compativel-Com-PS-XBOX-PC-Preto_1743517262.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Teclado Machenike K500-B61 RGB Switch Brown",
+      "preco": 499.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/627458/teclado-mecanico-gamer-machenike-k500-b61-rgb-switch-brown-layout-61-teclas-abnt2-cinza-k500-b61_1746534964_m.jpg"
+    },
+    {
+      "id": 12,
+      "nome": "Teclado Machenike K500-B87 80% RGB Switch Brown",
+      "preco": 259.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/621181/teclado-mecanico-gamer-machenike-azul-k500b-b87-switch-brown-87-teclas-80-compacto-hotswap-rgb-3-efeitos-usb-c-branco-e-azul-abnt2_1746553647_m.jpg"
+    },
+    {
+      "id": 13,
+      "nome": "Teclado Machenike K500-B94 RGB Switch Huano Blue",
+      "preco": 239.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/499314/teclado-mecanico-gamer-machenike-k500-b94-rgb-switch-ergonomic-cinza-mac-k500-b94ge-ww_1705077181_m.jpg"
+    },
+    {
+      "id": 14,
+      "nome": "Headset Hayom HF2200 LED P2/USB",
+      "preco": 96.00,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/262399/Headset-Gamer-Hayom-HF2200-Microfone-LED-Conector-P2-USB-Para-Energia-Preto-E-Vermelho_1730257018_m.jpg"
+    },
+    {
+      "id": 15,
+      "nome": "Headset Exbom HF-G600 LED USB/P3/P2",
+      "preco": 132.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/301942/Headset-Gamer-Exbom-Hf-G600-LED-USB-P3-P2-Vermelho-E-Preto_1721068543_m.jpg"
+    },
+    {
+      "id": 16,
+      "nome": "Headset Aplus Tech Ignite P3 Branco",
+      "preco": 148.57,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/687983/medium/Headset-Gamer-Aplus-Tech-Ignite-P3-Branco_1752605681.jpg"
+    },
+    {
+      "id": 17,
+      "nome": "Headset Razer Kaira X P2 Preto/Verde",
+      "preco": 489.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/256732/headset-gamer-razer-kaira-x-console-e-pc-drivers-50mm-p2-preto-e-verde-rz04-03970100-r3u1_1636647129_m.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "PC Gamer Completo Skill RGB Ryzen5‑5600GT 16 GB",
+      "preco": 2499.00,
+      "imagem": "https://images6.kabum.com.br/produtos/fotos/sync_mirakl/706116/xlarge/PC-Gamer-Ludic-By-Bluepc-Amd-Ryzen-5-5500-Geforce-RTX-3060-12gb-16gb-Ram-SSD-512gb-M-2-Nvme-Fonte-600w-80-Plus-Pgbp-1206lud_1741718441.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Processador AMD Ryzen 5‑5500X3D",
+      "preco": 1297.00,
+      "imagem": "https://images9.kabum.com.br/produtos/fotos/sync_mirakl/905089/xlarge/Processador-Amd-Ryzen-5-5500x3d-3GHz-Turbo-4GHz-AM4-6-Cores-12-Threads-Cache-99MB-Sem-Cooler-100-100001504wof_1753122883.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "PlayStation 5 Slim Digital 1 TB + 2 Jogos",
+      "preco": 3719.91,
+      "imagem": "https://images8.kabum.com.br/produtos/fotos/875818/console-sony-playstation-5-slim-edicao-digital-ssd-1tb-controle-sem-fio-dualsense-2-jogos-digitais-1000038894_1750163329_gg.jpg"
+    },
+    {
+      "id": 19,
+      "nome": "Headset Logitech G435 Lightspeed/Bluetooth",
+      "preco": 539.99,
+      "imagem": "https://images.kabum.com.br/produtos/fotos/263078/headset-gamer-sem-fio-logitech-g435-lightspeed-e-bluetooth-dolby-atmos-usb-pc-ps4-ps5-mobile-drivers-40mm-branco-981-001073_1636555971_m.jpg"
+    }
+  ]
+}

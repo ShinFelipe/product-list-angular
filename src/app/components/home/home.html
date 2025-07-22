@@ -1,0 +1,36 @@
+<p>Primeiro hello word em angular</p>
+<p>{{ nome }}</p>
+
+<button
+  [attr.aria-label]="nome"
+  [id]="nome"
+  type="button"
+  (click)="submit($event)"
+>
+  Enviar
+</button>
+
+<!-- versão mais atual das condicionais-->
+@if(deveMostrar) {
+<h1>Meu titulo</h1>
+} @else if(nome === 'Felipe') {
+<h1>Titulo para oo felipe</h1>
+} @else {
+<p>Condição falsa</p>
+}
+
+<!-- forma antiga das  condicionais -->
+<h1 *ngIf="deveMostrar">Meu titulo</h1>
+<h1 *ngIf="!deveMostrar">Meu titulo</h1>
+
+<!-- For da forma mais autal -->
+<!-- tack garante que o item seja renderizado corretamente rastreando corretamente cada elemento -->
+@for(item of listItens; track item) {
+<p>{{ item }}</p>
+}
+
+<!-- for na sintex mais antiga do angular -->
+<p *ngFor="let item of listItens">{{ item }}</p>
+
+<!-- Propriedaed e valor  passado via componente  -->
+<h1>{{ minhaProps }}</h1>
